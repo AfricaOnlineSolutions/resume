@@ -4,7 +4,7 @@ Resume and CV theme.
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://africaonlinesolutions.github.io/resume/)
+[![Resume Preview](https://africaonlinesolutions.github.io/resume/img/Screenshot.png)](https://africaonlinesolutions.github.io/resume/)
 
 **[View Live Preview](https://africaonlinesolutions.github.io/resume/)**
 
