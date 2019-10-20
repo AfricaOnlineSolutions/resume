@@ -1,6 +1,6 @@
 # [Resume](https://africaonlinesolutions.github.io/resume/)
 
-[Resume](https://africaonlinesolutions.github.io/resume/) is a resume and CV theme.
+Resume and CV theme.
 
 ## Preview
 
